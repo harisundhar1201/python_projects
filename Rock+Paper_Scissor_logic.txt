@@ -1,0 +1,18 @@
+Rock wins against scissors
+scissors wins against paper
+paper wins against rock
+
+0=rock
+1=paper
+2=scissors
+
+user choice     com choice        user result
+    0               0               draw
+    0               1               user lose
+    0               2               user wins
+    1               0               user wins
+    1               1               draw
+    1               2               user lose
+    2               0               user lose
+    2               1               user wins
+    2               2               draw
